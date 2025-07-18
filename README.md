@@ -28,9 +28,12 @@ Welcome to my GitHub! I’m a self-taught cybersecurity enthusiast focused on **
 
 ---
 
-## 📂 Featured Projects *(Coming Soon)*
+## 📂 Featured Projects 
 
 - 🔐 `secure-note-app` — Encrypted note-taking app with focus on front-end and crypto basics
+
+*(Coming Soon)*
+  
 - 🧰 `redteam-recon` — Python script that automates initial recon and scanning
 - 🌐 `portfolio-site` — Personal React website showcasing both dev & cyber paths
 
