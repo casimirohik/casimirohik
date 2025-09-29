@@ -32,9 +32,12 @@ Welcome to my GitHub! I’m a self-taught cybersecurity enthusiast focused on **
 
 - 🔐 `secure-note-app` — Encrypted note-taking app with focus on front-end and crypto basics
 
+*(In Development)*
+
+- 🧰 `redteam-recon` — Python script that automates initial recon and scanning
+
 *(Coming Soon)*
   
-- 🧰 `redteam-recon` — Python script that automates initial recon and scanning
 - 🌐 `portfolio-site` — Personal React website showcasing both dev & cyber paths
 
 *(Projects will be published shortly — check back soon!)*
